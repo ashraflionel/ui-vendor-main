@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "166498085692",
+    "project_id": "suppliablestoreapp",
+    "storage_bucket": "suppliablestoreapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166498085692:android:44bdc3799cd2b82e010c39",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166498085692-jt77725iprf9394bc8aumkv721j1k1jd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcs4pRtaq1KB31NWy1JbGIO3AVhv_LkOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166498085692-jt77725iprf9394bc8aumkv721j1k1jd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166498085692:android:0fbebe00d745703b010c39",
+        "android_client_info": {
+          "package_name": "com.supplierstoreapp.newappname"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166498085692-fv9vhdocehaoo7mgpnfffpp6hmctmmfp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.supplierstoreapp.newappname",
+            "certificate_hash": "9b0bb7303a19c991a03ebd4ae17ef6d64bd2fa26"
+          }
+        },
+        {
+          "client_id": "166498085692-jt77725iprf9394bc8aumkv721j1k1jd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcs4pRtaq1KB31NWy1JbGIO3AVhv_LkOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166498085692-jt77725iprf9394bc8aumkv721j1k1jd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
